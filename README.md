@@ -1,16 +1,18 @@
-## Hi there 👋
+# PEMF-VTO
 
-<!--
-**PEMF-VTO/PEMF-VTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm
 
-Here are some ideas to get you started:
+The link to our paper's homepage is https://pemf-vto.github.io/.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Citation
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{chang2024pemf,
+  author    = {Chang, Tianyu and Wei, Xiaohao Chen and Zhang, Xuanpu and Chen, Qing-Guo and Luo, Weihua, Peipei Song and Yang, Xun},
+  title     = {PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm},
+  journal   = {arXiv preprint arXiv:2412.03021},
+  year      = {2024},
+}
+```
